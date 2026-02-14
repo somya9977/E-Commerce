@@ -3,6 +3,6 @@ import react from '@vitejs/plugin-react';
 
 export default defineConfig({
   plugins: [react()],
-  base: '/E-Commerce-/'   // <-- Add this line
+  base: '/E-Commerce/'   // <-- Add this line
 });
 
